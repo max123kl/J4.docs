@@ -7,6 +7,7 @@ Our [Code of conduct](../CODE_OF_CONDUCT.md). Please read carefully.
 
 Getting started with [git and github](https://guides.github.com/activities/hello-world/). If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 #### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
+The JDoc wiki also has a [good tutorial](https://docs.joomla.org/Visual_Studio_Code_Primer) of how to use [VScodium]() or [VS Code](https://code.visualstudio.com/), two lightweight IDE environments that work well with GitHub. The differences are [described here](https://www.roboleary.net/tools/2022/05/31/vscode-vscodium-which-should-i-use.html).
 
 ## Working with this repository
 
@@ -34,7 +35,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 
 ### Create or take an issue
 
-Go to [Issues](https://github.com/joomlagerman/joomla/issues) and create a new issue or take one open issue to write an PR.  
+Go to [Issues](https://github.com/max123kl/J4.docs/issues) and create a new issue or take one open issue to write an PR.  
 Normally no PR without a previous issue. We have the *issue-first principle*.
 
 ### Create a branch
