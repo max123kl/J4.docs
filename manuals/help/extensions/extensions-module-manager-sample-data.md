@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 2
 id: extensions-module-manager-sample-data
 title: "Help4.x:Extensions Module Manager Sample Data"
 ---

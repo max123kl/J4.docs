@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 1
 id: extensions-module-manager-edit
 title: "Help4.x:Extensions Module Manager Edit"
 ---
