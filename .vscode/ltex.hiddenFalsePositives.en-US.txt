@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThese files will typically provide information to support the creation of new JDocs documentation and be related to a specific Issue/Task.\\E$"}
