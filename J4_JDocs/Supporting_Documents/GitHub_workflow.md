@@ -1,4 +1,4 @@
-# Joomla GitHub workflow suggestion
+# [WiP] Joomla GitHub workflow suggestion
 
 There is a [description of Git and GitHub](https://docs.joomla.org/Working_with_git_and_github) in the Joomla documentation, originally written for developers, which also explains how to set up a test environment.
 A second page has an example of how to [create a pull request with GitHub](https://docs.joomla.org/Using_the_Github_UI_to_Make_Pull_Requests).
